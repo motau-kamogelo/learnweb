@@ -1,0 +1,15 @@
+h1 {
+    color: #ff0000;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    background-color: #ad9696;
+}
